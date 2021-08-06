@@ -1,0 +1,7 @@
+name: "crawler-arena"
+displayName: "Crawler Arena Texture"
+author: "SpaceEarthEX"
+description: "An Texturepack for pl's Crawler Arena server. its incomplete"
+version: "0.1"
+minGameVersion: "129.2"
+hidden: "true"
